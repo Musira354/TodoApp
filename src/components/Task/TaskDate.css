@@ -1,0 +1,34 @@
+.task-date {
+	display: flex;
+	flex-direction: column;
+	width: 5.5rem;
+	height: 5.5rem;
+	border: 1px solid #85826c;
+	background-color: #918e76;
+	color: white;
+	text-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+	border-radius: 12px;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+	margin-block-end: 0.5rem;
+	margin-top: 0.5rem;
+	margin-inline-end: 1rem;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+		"Lucida Sans", Arial, sans-serif;
+}
+.task-date_month {
+	font-size: 0.9rem;
+	font-weight: bold;
+}
+
+.task-date_year {
+	font-size: 0.72rem;
+	font-weight: bold;
+}
+
+.task-date_day {
+	margin-top: 0.4rem;
+	font-size: 0.85rem;
+	font-weight: bold;
+}

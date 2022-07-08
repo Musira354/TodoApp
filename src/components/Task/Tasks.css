@@ -1,0 +1,12 @@
+.expenses {
+	margin: 4rem auto;
+	padding: 1rem;
+	width: 90rem;
+	font-weight: bold;
+	max-width: 95%;
+	border-radius: 1px solid white;
+	border: 1px solid #ffffff;
+	background-color: #ffffff;
+	padding: 0.5rem;
+	border-radius: 12px;
+}
